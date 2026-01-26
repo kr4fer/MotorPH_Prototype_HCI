@@ -46,4 +46,4 @@
 
 <hr>
 
-<p align="center"><i>Final Project for HCI - 2026</i></p>
+<p align="center"><i>Final Project for HCI - A.Y. 2025-2026</i></p>
